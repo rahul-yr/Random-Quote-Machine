@@ -1,0 +1,37 @@
+body{
+  
+  background-image:url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/05/81/6456279a0080dd1.jpg");
+  background-repeat:repeat;
+  //background-attachment:fixed;
+  margin-top:80px;
+  //background-size:cover; 
+}
+#quote:hover{
+  border-color:#466675;
+  border-style:solid;
+  background-color:lightgreen;
+  font-size:20px;
+  
+}
+#author:hover{
+  border-color:#466675;
+  border-style:solid;
+  background-color:lightgreen;
+  font-size:20px;
+  
+}
+.cc{
+  color:black;
+  font-family:Aries;
+  border-color:#466675;
+    font-size:20px;
+
+}
+.dc{
+  background-color:;
+  opacity:0.8;
+  border-color:#466675;
+}
+.bc{
+  border-color:#466675;
+}
